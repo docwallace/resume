@@ -66,18 +66,17 @@ table {
 }
 
 #doc {
-    display: block;
     margin: 0 auto;
-    width: 350px;
+    width: 340px;
     padding:5px;
     border: 5px solid blue;
-    background-color: #a6cfcc;
+    /* background-color: #a6cfcc; */
+    background-color: #36a6cc;
     border-radius:5px;
 }
 
 #photo {
-    display: block;
-    margin: 10px auto 0px auto;
+    margin: 10px auto 0px 15px;
     border: 6px double black;
 }
 
@@ -143,7 +142,9 @@ h4 {
 
 #education {
     float: left;
-    background-color: #d5bae1;
+    /* background-color: #d5bae1; 
+    background-color: #cc5c36; */
+    background-color: #d67d5f;
     margin: 10px 0px 10px 10px;
 }
 
