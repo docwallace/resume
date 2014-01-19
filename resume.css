@@ -70,7 +70,6 @@ table {
     width: 340px;
     padding:5px;
     border: 5px solid blue;
-    /* background-color: #a6cfcc; */
     background-color: #36a6cc;
     border-radius:5px;
 }
@@ -111,14 +110,14 @@ h4 {
 .left, .mid {
     display: relative;
     z-index: 20;
-    height: 460px;
+    height: 400px;
     width: 500px;
     padding:5px;
     border: 5px solid blue;
     background-color: yellow;
     margin: 5px 10px;
     border-radius:5px;
-    float:left;
+    float: left;
 }
 
 .bottom {
@@ -129,8 +128,6 @@ h4 {
 
 #education {
     float: left;
-    /* background-color: #d5bae1; 
-    background-color: #cc5c36; */
     background-color: #d67d5f;
     margin: 10px 0px 10px 10px;
 }
