@@ -1,0 +1,5 @@
+GitHub Log
+
+
+Press Windows+R
+%LOCALAPPDATA%\GitHub

@@ -90,7 +90,7 @@ h1 {
     color: black;     
 }
 
-h2 {
+h3, h4, p {
     text-decoration: none;
     text-align: left;
     margin: 0px auto;
@@ -100,26 +100,12 @@ h2 {
     color: black;      
 }
 
-h3 {
-    text-decoration: none;
-    text-align: left;
-    margin: 0px auto;
-    font-family: 'Lucida Sans Unicode', Verdana, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    color: black;  
-}
 
 h4 {
-    text-decoration: none;
     text-align: center;
-    margin: 0px auto;
-    font-family: 'Lucida Sans Unicode', Verdana, sans-serif;
-    font-size: 14px;
     font-weight: 500;
-    color: black;
-}
 
+}
 
 .left, .mid {
     display: relative;
