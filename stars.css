@@ -153,8 +153,8 @@ h4 {
 }
 
 #education p, #experience p {
-    color: black;
-    font-weight: rgb(26, 26, 26);
+    color: #111111;
+    font-weight: 700;
 }
 
 
